@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=8A2BE2&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/C37nZNgZ/shaban-md.jpg'/></a>
+<a><img src='https://i.ibb.co/C37nZNgZ/lyrical-md.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN42"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/MRlyrical42"><img title="Developer" src="https://img.shields.io/badge/Author-lyrical%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -20,12 +20,12 @@
 
 <p align="center">
 <a href="https://github.com/MRSHABAN45/lyrical-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=lyrical-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
+  <a href="https://github.com/MRSHABAN40/lyrical"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
 </p>
 
 
@@ -43,7 +43,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/MRSHABAN45/lyrical-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-lyrical MD-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
   **⛓️‍💥 NEW SESSION WEB ADDED 27-July**
